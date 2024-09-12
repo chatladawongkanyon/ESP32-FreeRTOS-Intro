@@ -96,4 +96,8 @@ void app_main(void)
 
 ```
 
+<img width="370" alt="image" src="https://github.com/user-attachments/assets/5fc49e09-08e0-4d17-8a13-ec34a8bc6c94">
+
+มีการขึ้นคล้ายเดิมแต่เลขซ้ำ 5 บรรทัด
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-3.md) 
