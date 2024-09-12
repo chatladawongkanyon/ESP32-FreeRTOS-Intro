@@ -21,4 +21,9 @@
 3. รันโปรแกรมและอธิบายผลที่ได้
 
 
+![Screenshot 2024-09-12 154850](https://github.com/user-attachments/assets/41525c2e-bce3-4812-9b99-90808c9a4207)
+
+โปรแกรมแสดงผล Hello My First Task ไล่ตามเลขขึ้นไปเรื่อยๆ
+
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
