@@ -33,4 +33,6 @@ void My_First_Task(void * arg)
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
 
+<img width="253" alt="image" src="https://github.com/user-attachments/assets/359c8511-4f77-4402-a8c3-da0b1953e7e0">
+
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-5.md) 
